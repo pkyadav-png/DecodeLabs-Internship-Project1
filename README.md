@@ -3,7 +3,7 @@
 A high-performance, industry-standard static webpage built from scratch based on strict blueprint specifications provided during the DecodeLabs Internship. 
 
 ## 🌐 Live Demo & Deliverables
-- **Live Website:** [👉 Click here to view the Live Project](https://pkyadav-png.github.io/DecodeLabs-Internship-Project1/) *(Note: Apne Pages ka sahi link yahan replace kar lena)*
+- **Live Website:** [👉 Click here to view the Live Project](https://pkyadav-png.github.io/DecodeLabs-Internship-Project1/)
 - **GitHub Repository:** [💻 Source Code](https://github.com/pkyadav-png/DecodeLabs-Internship-Project1)
 
 ---
